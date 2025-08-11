@@ -1,6 +1,0 @@
-git init
-git branch -M main
-git remote add origin https://github.com/YourUsername/pixel-runner.git
-git add .
-git commit -m "Initial game commit"
-git push -u origin main
